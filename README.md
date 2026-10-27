@@ -1,4 +1,4 @@
-# Git @ FoodX
+# Git 
 ## Standard tool
 Git is a tool which enables text-based collaboration. We all need to communicate rapidly and be part of our common FoodX voice.
 
